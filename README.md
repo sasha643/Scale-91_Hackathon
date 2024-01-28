@@ -11,3 +11,7 @@ Make sure to install the required libraries and packages before running the code
 ```bash
 pip install opencv-python numpy tensorflow face_recognition torch torchvision tqdm matplotlib seaborn
 ```
+
+## Usage
+
+- Clone the repository:
