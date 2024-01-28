@@ -15,3 +15,7 @@ pip install opencv-python numpy tensorflow face_recognition torch torchvision tq
 ## Usage
 
 - Clone the repository:
+
+```bash
+git clone https://github.com/your-username/deepfake-detection.git
+```
