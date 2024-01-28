@@ -30,3 +30,7 @@ git clone https://github.com/sasha643/Scale-91_Hackathon.git
 - Testing: Evaluate the model on a separate test dataset.
 - Visualization: Visualize the detection results and generate a confusion matrix.
 
+### Developed by: 
+
+- Saurabh Sharma
+- Dhruvrajsinh Solanki
