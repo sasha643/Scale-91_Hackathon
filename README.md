@@ -33,6 +33,7 @@ git clone https://github.com/sasha643/Scale-91_Hackathon.git
 ## SDN list
 
 Our approach assigns pseudo numbers to accounts, allowing AI to identify and monitor risks without accessing restricted PII like account holder names. This surpasses KYC, providing a pioneering solution for fintech security challenges, even in high-profile cases like "Dawood".
+![Image Description](https://raw.githubusercontent.com/sasha643/Scale-91_Hackathon/main/WhatsApp%20Image%202024-02-22%20at%208.17.26%20PM.jpeg)
 
 ### Developed by: 
 
